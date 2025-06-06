@@ -28,7 +28,7 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-  🔭 I’m currently working on <br><br>
+  🔭 Currently building something cool <br><br>
   🌱 I’m currently learning NestJS<br><br>
   💬 Ask me about React.js & Node.js<br><br>
   📫 How to reach me: <a href="mailto:bettytadege13@gmail.com">bettytadege13@gmail.com</a>
