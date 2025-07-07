@@ -3,7 +3,7 @@
   <img 
     src="https://img.freepik.com/free-vector/young-woman-uses-computer-work-reduce-infection_1150-34985.jpg?t=st=1749236100~exp=1749239700~hmac=7def4e9272246ad64aa0e3e11c8d1bc22f1cd049ff68607a2a91cb2445c430b3&w=2000" 
     alt="Working woman illustration" 
-    style="width: 100%; height: auto; border-radius: 10px;" 
+    style="width: 20%; height: auto; border-radius: 10px;" 
   />
 </div>
 
